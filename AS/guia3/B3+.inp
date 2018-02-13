@@ -1,0 +1,6 @@
+A.S. Li+ structure GS - energies
+ &SALGEB MXCONF=2 MXVORB=2  CUP='IC'  &END
+ 1 0  2 0
+  1    1
+	2		 0 
+ &SMINIM NZION=5  &END
