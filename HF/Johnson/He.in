@@ -1,0 +1,6 @@
+ He    1   2   0   ! el  js  jz  (no valence)
+   2   0   0       ! 2  s
+   0.0005  0.03    ! r0 h
+   0.5             ! h1
+   0               ! gI
+   0               ! icase
