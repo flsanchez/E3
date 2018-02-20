@@ -1,0 +1,5 @@
+A.S. He structure GS - energies
+ &SALGEB MXCONF=1 MXVORB=4  CUP='LS'  &END
+ 1 0  2 0  2 1  3 0
+  2    2		6		 0
+ &SMINIM NZION=11  &END
