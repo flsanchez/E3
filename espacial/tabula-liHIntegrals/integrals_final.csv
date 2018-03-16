@@ -1,0 +1,89 @@
+# one center one electron
+ss,1.00000
+Ss,0.00000
+SS,1.00000
+pp,1.00000
+hh,1.00000
+Tss,3.61037
+TSs,0.69533
+TSS,0.20834
+Tpp,0.14100
+Thh,0.50000
+# VLi
+Vss,2.68449
+VSs,0.27275
+VSS,0.34550
+Vpp,0.26499
+# VH
+Vhh,1.00000
+# one center two electron
+ssss,1.64978
+Ssss,0.12216
+SsSs,0.01412
+SSss,0.32298
+SSSs,0.00278
+SSSS,0.23448
+psps,0.00294
+pSps,-0.00492
+pSpS,0.04403
+ppss,0.26411
+ppSs,0.00101
+ppSS,0.20881
+pppp,0.20403
+hhhh,0.62500
+# two center one electron
+hs,0.10445
+hS,-0.46932
+hp,0.50598
+Ths,-0.00798
+ThS,-0.04797
+Thp,0.09785
+# VLi
+Vhs,0.12998
+VhS,-0.14885
+Vhp,0.15791
+Vhh,0.33003
+# VH
+Vss,0.33332
+VSs,0.00010
+VSS,0.26443
+Vps,0.01120
+VpS,-0.09978
+Vpp,0.27729
+Vhs,0.04424
+VhS,-0.28263
+Vhp,0.35084
+# two center two electron
+hsss,0.10665
+hsSs,0.00515
+hsSS,0.03222
+hsps,0.00122
+hspS,-0.00266
+hspp,0.02747
+hshs,0.00897
+hSss,-0.15187
+hSSs,-0.00001
+hSSS,-0.11625
+hSps,-0.00347
+hSpS,0.02874
+hSpp,-0.11093
+hShs,-0.01810
+hShS,0.08523
+hpss,0.15765
+hpSs,0.00046
+hpSS,0.12120
+hpps,0.00479
+hppS,-0.03902
+hppp,0.12061
+hphs,0.01934
+hphS,-0.09835
+hphp,0.11660
+hhss,0.32923
+hhSs,0.00089
+hhSS,0.25123
+hhps,0.00970
+hhpS,-0.08252
+hhpp,0.25398
+hhhs,0.04084
+hhhS,-0.21847
+hhhp,0.26249
